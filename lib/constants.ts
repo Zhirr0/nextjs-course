@@ -3,7 +3,7 @@ export const events = [
     slug: "react-conf-2024",
     image: "/images/event1.png",
     title: "React Conf 2024",
-    location: "San Francisco, CA",
+    location: "San Francisco, CA, USA",
     date: "March 15, 2024",
     time: "9:00 AM - 6:00 PM",
   },
